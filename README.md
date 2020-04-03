@@ -2,13 +2,15 @@
 
 This repository containts scripts to make managing our remote mongo database easy. 
 
-### Command Line Arguments
+## Command Line Arguments
 
 Each command takes two command line arguments <password> and <database>. 
 
-<password> should be subsituted for the password of the admin Mongo Atlas account. ie: 'password123'
-<database> should be substituted for the name of the database you are attempting to access. ie: 'production' or 'test'
+- <password> should be subsituted for the password of the admin Mongo Atlas account. ie: 'password123'
+- <database> should be substituted for the name of the database you are attempting to access. ie: 'production' or 'test'
   
+## Scripts
+
 ### remove-users.js
 
 This script removes all users in the specified database. 

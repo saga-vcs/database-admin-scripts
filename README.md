@@ -1,6 +1,6 @@
 # Database Admin Scripts
 
-This repository containts scripts to make managing our remote mongo database easy. 
+This repository containts scripts to make managing our remote mongo database easy. **Before running these scripts ensure that your IP is whitelisted by MongoDB Atlas**
 
 ## Command Line Arguments
 
